@@ -1,6 +1,8 @@
 FPGA Glitcher
 =============
 
+Target is a TinyFPGA BX
+
 PicoSOC running the glitcher.v hardware block which generates an output pulse of variable delay and duration
 based on a trigger signal (edge triggered). Configuration is via the serial port of the FPGA.
 This should allow for automated testing of glitch parameters (delay, duration) against a target until for example

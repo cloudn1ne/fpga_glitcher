@@ -1,0 +1,10 @@
+glitcher.vcd
+firmware.bin
+firmware.elf
+top.asc
+top.bin
+top.json
+top.rpt
+firmware/firmware.map
+sim/glitcher
+sim/glitcher
